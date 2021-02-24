@@ -412,8 +412,8 @@ hr {
       .tile.tile-1458 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2187 .tile-inner {
-    color: #f9f6f2;
-    background: radial-gradient(circle at center, #f00 0, #ff0, #0f0, #0ff, #00f, #f0f, #f00 100%);
+    color: #776e65;
+    background: radial-gradient(circle farthest-side at center, #f00 0, #ff0, #0f0, #0ff, #00f, #f0f, #f00 100%);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.6);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
