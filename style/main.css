@@ -383,6 +383,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-243 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #ffff44;
     box-shadow: 0 0 30px 10px rgba(255, 255, 0, 0.6), inset 0 0 0 1px rgba(255, 255, 255, 0.36);
     font-size: 45px; }
@@ -391,6 +392,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-486 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #ffff22;
     box-shadow: 0 0 30px 10px rgba(255, 255, 0, 0.7), inset 0 0 0 1px rgba(255, 255, 255, 0.42);
     font-size: 45px; }
@@ -399,6 +401,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-729 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #ffff00;
     box-shadow: 0 0 30px 10px rgba(255, 255, 0, 0.8), inset 0 0 0 1px rgba(255, 255, 255, 0.48);
     font-size: 45px; }
@@ -407,6 +410,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1458 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #fff700;
     box-shadow: 0 0 30px 10px rgba(255, 247, 0, 0.9), inset 0 0 0 1px rgba(255, 255, 255, 0.54);
     font-size: 35px; }
@@ -415,6 +419,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2187 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #ffef00;
     box-shadow: 0 0 30px 10px rgba(255, 239, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.6);
     font-size: 35px; }
@@ -423,6 +428,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-4374 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #ffe700;
     box-shadow: 0 0 30px 10px rgba(255, 231, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.6);
     font-size: 35px; }
@@ -431,6 +437,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-6561 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #ffdf00;
     box-shadow: 0 0 30px 10px rgba(255, 223, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.6);
     font-size: 35px; }
@@ -439,6 +446,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-13122 .tile-inner {
     color: #f9f6f2;
+    text-shadow: 0 0 2px rgba(60, 58, 50, 0.5);
     background: #ffcf00;
     box-shadow: 0 0 30px 10px rgba(255, 207, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.6);
     font-size: 30px; }
